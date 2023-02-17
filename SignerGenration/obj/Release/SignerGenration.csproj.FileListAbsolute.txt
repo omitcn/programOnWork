@@ -1,0 +1,14 @@
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\bin\Release\SignerGenration.exe.config
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\bin\Release\SignerGenration.exe
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\bin\Release\SignerGenration.pdb
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\bin\Release\PinYinConverterCore.dll
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\bin\Release\PinYinConverterCore.xml
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\obj\Release\SignerGenration.csproj.AssemblyReference.cache
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\obj\Release\SignerGenration.csproj.SuggestedBindingRedirects.cache
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\obj\Release\SignerGenration.MainForm.resources
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\obj\Release\SignerGenration.Properties.Resources.resources
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\obj\Release\SignerGenration.csproj.GenerateResource.cache
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\obj\Release\SignerGenration.csproj.CoreCompileInputs.cache
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\obj\Release\SignerGenration.csproj.CopyComplete
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\obj\Release\SignerGenration.exe
+E:\Users\Documents\Visual Studio 2022\Repo\SignerGenration\obj\Release\SignerGenration.pdb
